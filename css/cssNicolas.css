@@ -1,0 +1,18 @@
+.Primeiro-titulos{
+    display: flex;
+    flex-direction: column;
+}
+
+.imagemClassificacao{
+    display: flex;
+    align-items: center;
+    margin-top: 50px;
+    justify-content: center;
+}
+
+footer img{
+    display: flex;
+    align-items: center;
+    margin-top: 50px;
+    justify-content: center;
+}
